@@ -5,7 +5,7 @@
 // @description  to be writen
 // @author       davidmann4
 // @license      MIT
-// @match        http://agar.io/*
+// @match        http://bhax.org/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.5/socket.io.min.js
 // @grant        none
 // @run-at       document-start
